@@ -22,6 +22,10 @@ H<sub>2</sub>O
 Code    
 ```Hello World``'
 
+```javascript
+alert("Hello World")
+```
+
 [WhatsApp](https://wa.me/6283851146682)
 
 [Instagram](https://www.instagram.com/pkry.smsry?igsh=MWgwOHZoa3dwbzhqNw==)
