@@ -20,8 +20,6 @@ Elemen Air
 H<sub>2</sub>O
 
 Code    
-```Hello World``'
-
 ```javascript
 alert("Hello World")
 ```
